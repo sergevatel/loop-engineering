@@ -1,0 +1,19 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
+  "name": "loop-engineering",
+  "description": "Autonomous loop engineering skills for AI coding agents.",
+  "owner": {
+    "name": "Serge Vatel",
+    "url": "https://github.com/sergevatel"
+  },
+  "plugins": [
+    {
+      "name": "loop-engineering",
+      "source": "./",
+      "description": "Loop budget guard, change triage, minimal-fix, and independent verifier skills for autonomous agent loops.",
+      "homepage": "https://github.com/sergevatel/loop-engineering",
+      "license": "MIT",
+      "keywords": ["loop", "skills", "triage", "verification", "minimal-fix", "agents"]
+    }
+  ]
+}

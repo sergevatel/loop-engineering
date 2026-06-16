@@ -1,0 +1,12 @@
+{
+  "name": "loop-engineering",
+  "description": "Autonomous loop engineering skills: budget guarding, change triage, minimal fixes, and independent verification for agent loops.",
+  "author": {
+    "name": "Serge Vatel",
+    "url": "https://github.com/sergevatel"
+  },
+  "homepage": "https://github.com/sergevatel/loop-engineering",
+  "repository": "https://github.com/sergevatel/loop-engineering",
+  "license": "MIT",
+  "skills": "./skills"
+}
